@@ -8,7 +8,7 @@ Provide a basic configuration to describe an OpenStack instance with Terraform.
 export TF_VAR_os_network='foo'
 ```
 
-```
+```HCL
 variable "os_network" {}
 variable "instance_name" {
   default = "foo"
