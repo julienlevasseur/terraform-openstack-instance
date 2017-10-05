@@ -1,4 +1,4 @@
-# README
+# terraform-openstack-instance
 
 Provide a basic configuration to describe an OpenStack instance with Terraform.
 
